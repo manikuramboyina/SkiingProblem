@@ -1,5 +1,5 @@
-# Redmart-SkiingInSingapore
-Redmart Skiing In Singapore coding challenge -- (http://geeks.redmart.com/2015/01/07/skiing-in-singapore-a-coding-diversion/)
+# SkiingInSingapore
+Skiing In Singapore coding challenge -- (http://geeks.redmart.com/2015/01/07/skiing-in-singapore-a-coding-diversion/)
 
 Skiing in Singapore - a coding diversion.
 
